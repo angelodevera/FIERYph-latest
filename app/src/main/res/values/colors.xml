@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#81303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="rdopat">#B0233E5E</color>
+    <color name="stroke">#FFFF4444</color>
+    <color name="button">#B7FF4444</color>
+
+
+</resources>
